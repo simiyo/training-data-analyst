@@ -145,7 +145,7 @@
     <dependency>
         <groupId>io.grpc</groupId>
         <artifactId>grpc-all</artifactId>
-        <version>1.42.0</version>
+        <version>1.48.0</version>
     </dependency>
 
 
