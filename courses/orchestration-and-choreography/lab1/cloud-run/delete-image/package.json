@@ -13,6 +13,6 @@
 	  "cloudevents": "^6.0.2",
 	  "@google/events": "^5.4.0",
 	  "@google-cloud/firestore": "^6.0.0",
-	  "@google-cloud/storage": "^6.3.0"
+	  "@google-cloud/storage": "^7.19.0"
 	}
 }
